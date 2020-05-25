@@ -1,0 +1,35 @@
+Hotel_The_Ritz_Carlton Hong_Kong 28781
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Eaton_HK Yau_Ma_Tei 6985
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Conrad Hong_Kong 19709
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Hotel_The_Ritz_Carlton Hong_Kong 28781
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Hotel_Kowloon_Shangri-La Hong_Kong 16490
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000

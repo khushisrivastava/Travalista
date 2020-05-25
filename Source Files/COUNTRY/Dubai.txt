@@ -1,0 +1,35 @@
+Raffles_Dubai Burj_Khalifa 10793
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+JA_Palm_Tree_Court Jumeirah_Beach 11420
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Palace_Downtown Burj_Khalifa 17045
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Al_Maha Dubai 29085
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Five_Palm_Jumeirah Jumeirah_Beach 12458
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000

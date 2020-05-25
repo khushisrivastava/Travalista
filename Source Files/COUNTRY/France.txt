@@ -1,0 +1,35 @@
+Shangri_La_Hotel Paris 69318
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Hyatt_Regency_Nice_Palais_Dela_Mediterr Nice 21808
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Renaissance_Paris_Arc_De_Triomphe_Hotel Paris 32454
+SSingle 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Inter_Continental_Paris-LeGrand Paris 24622
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Le_Negresco Nice 18874
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000

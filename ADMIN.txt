@@ -1,0 +1,5 @@
+  Admin Login
+--List of users
+--Total Bookings
+--Total amount generated
+--Login Session Records

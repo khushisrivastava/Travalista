@@ -1,0 +1,57 @@
+PRANAV'S
+void clrscr();
+void currentTime();
+void paymentPortal(int);
+void arrorHere(int, int);
+void fileEntry();
+void fileRetrive();
+void freeHotel();
+void freeFilenode();
+void scanID();
+void writeID();
+void flightRecords(int amount, int tid);
+void hotelRecords(int amount, int tid);
+void hotelFinalizing(HOTEL *op);
+void hotelPrinting(char country[]);
+void hotelBooking();
+void menu();
+void revenue();
+void usrfeeds();
+void fileToList();
+void createUser();
+void loginCheck(char uname[], char upass[]);
+void login();
+void userPortal();
+
+
+KHUSHI'S
+DAY currentDate();
+void gotoxy(int x, int y);
+void plus(int *month, int *year);
+void minus(int *month, int *year);
+int checkLeap(int year);
+int verification(DAY vday);
+void printmonth(int month, int year);
+int days(int month ,int year);
+int countdays(struct day d1,struct day d2);
+int getDayNumber(int day,int mon,int year);
+void printcalender(struct day curr, int x, int y);
+DAY calendermain();
+void displayPreviousRecords(HK *headHK, HK*tempHK);
+void userList(USER *head, USER* temp);
+void recordBook();
+void sortList(HOTEL *headS);
+void adminLogin();
+void adminMenu();
+
+
+ISHIKA'S
+void display();
+void reserve();
+void confirmation();
+void flightBooking();
+void aboutUs();
+
+
+SATYAM'S
+void feedback();

@@ -1,0 +1,35 @@
+Royal_Garden_Villas Costa 22618
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Sun_Gardens_Dubrovnik Dubrovnik 14460
+SSingle 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+W_Barcelona Barcelona 23387
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Bellevue_Syrene Sorrento 36001
+SSingle 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Puente_Romano_Marbella Marbella 34392
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000

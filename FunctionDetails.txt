@@ -1,0 +1,56 @@
+PRANAV'S
+void clrscr();- To clear screen
+void currentTime();- To display current date and time
+void paymentPortal(int);- Used for accepting payments 
+void arrorHere(int, int);- For arrow navigation 
+void fileEntry();- To enter records in the file 
+void fileRetrive();- To retrive user records from a file
+void freeHotel();- Clear hotel link list for loop to work
+void freeFilenode();- Clear flight link list for loop to work
+void scanID();- To scan transaction ID and total revenue from file and store them in a global variable for further increment 
+void writeID();- To overwrite newly generated transaction ID anf total revenue in a file
+void flightRecords(int amount, int tid);- To store flight records in link list
+void hotelRecords(int amount, int tid);- To store hotel records in link list
+void hotelFinalizing(HOTEL *op);- Choosing room type, check-in check-out dates and preview the booking details 
+void hotelPrinting(char country[]);- Print hotel name and call for hotelFinalizing() function
+void hotelBooking();- Print country name and call hotelPrinting() function
+void menu();- Displaying main menu
+void fileToList();- Copying registered user data from file to link list
+void createUser();- Function to create new user
+void loginCheck(char uname[], char upass[]);- To check user existance and password validity
+void login();- For alredy existing user to login
+void userPortal();- inital interface
+void revenue();- Displays the total revenue generated
+void usrfeeds();-Displays feedbacks to the admin
+
+KHUSHI'S
+DAY currentDate- Returns current date
+void gotoxy(int x, int y);-Used to goto a specific position on screen 
+void plus(int *month, int *year);- To increment month by one and displaythe following month calender 
+void minus(int *month, int *year);- To decrement month by one and display following month calender 
+int checkLeap(int year);- To check whether the year is a leap year or not 
+int verification(DAY vday);-For the verification of date entered by the user
+void printmonth(int month, int year);- For printing the months 
+int days(int month ,int year);- Returns the number of days in the specified month 
+int countdays(struct day d1,struct day d2);- Calculates the number of days between two dates
+int getDayNumber(int day,int mon,int year);- To find the day of the week where first day of the month points
+void printcalender(struct day curr, int x, int y);- To print the calender
+DAY calendermain();-Main function of the calender which calls the other functions and take date input from user
+void displayPreviousRecords(HK *headHK, HK*tempHK);- Display past activities of the user from USER file
+void userList(USER *head, USER* temp);- Displays the list of user in admin function
+void recordBook();- Displays records of all the registered users
+void adminMenu();- Displaying admin menu
+void adminLogin();- Checks for the admin password and calls for adminMenu() function
+void sortList(HOTEL *headS);- Sorts the hotel list according to their average fare 
+
+
+ISHIKA'S
+void display();- displays the source and destination with the dispaly of calendermain() function 
+void reserve();-ticket display through node accessing 
+void confirmation();transferring the data to node and check if the source and destination same as in details.txt
+void flightBooking();-function which calls display reserve and confirmation function
+void aboutUs();-shows information shown by Travelista 
+
+
+SATYAM'S
+void feedback();- To ask user for feedback

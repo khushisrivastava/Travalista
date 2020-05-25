@@ -1,0 +1,35 @@
+Thompson_Toronto Billy_Bishop_Toronto_City_Airport 13872
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+The_St.Regis Royal_Ontario_Museum 27302
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Old_Mill Casa_Loma 13627
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+The_Ritz_Carlton Billy_Bishop_Toronto_City_Airport 31068
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+The_Omni_King_Edward Royal_Ontario_Museum 11448
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000

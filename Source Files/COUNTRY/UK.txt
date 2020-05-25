@@ -1,0 +1,35 @@
+Hotel_Fairmont St.Andrews 13765
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Waldorf_Astoria_Edinburgh-The_Caledonia Edinburgh 15561
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Macdonald_Bath_Spa Bath 16222
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Hotel_The_Langham London 25001
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
+Hotel_Culloden_Estate_and_Spa Hollywood 14928
+Single 2000
+Twin 3000
+Quad 5000
+QueenBed 8000
+KingBed 10000
+Suite 17000
